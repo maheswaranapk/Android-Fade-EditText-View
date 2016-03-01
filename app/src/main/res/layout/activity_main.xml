@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin">
 
 
-    <com.scriptedpapers.androidfadeedittextview.view.FadeEditText
+    <com.fadeedittext.FadeEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:singleLine="true"

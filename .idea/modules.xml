@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-Fade-EditText-View.iml" filepath="$PROJECT_DIR$/Android-Fade-EditText-View.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fade-edit-text/fade-edit-text.iml" filepath="$PROJECT_DIR$/fade-edit-text/fade-edit-text.iml" />
     </modules>
   </component>
 </project>

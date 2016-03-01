@@ -1,4 +1,4 @@
-package com.scriptedpapers.androidfadeedittextview.view;
+package com.fadeedittext;
 
 import android.content.Context;
 import android.graphics.Canvas;
