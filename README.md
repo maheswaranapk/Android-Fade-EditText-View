@@ -1,6 +1,8 @@
 # Android-Fade-EditText-View
 This is a Simple Android Custom EditText which fade at the end when the text goes beyond the screen.
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--Fade--EditText--View-green.svg?style=true)](https://android-arsenal.com/details/1/3228)
+
 **Inspired from this [blog!](https://sriramramani.wordpress.com/2013/06/06/ellip-sis/)**
 
 # **How To use**
